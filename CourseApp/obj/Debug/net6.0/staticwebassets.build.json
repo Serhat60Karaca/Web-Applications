@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UZUHBI7By+Mwh+YeCVKwtw6jjXZf9NvPGSodzuEjk48=",
+  "Source": "CourseApp",
+  "BasePath": "_content/CourseApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CourseApp\\wwwroot",
+      "Source": "CourseApp",
+      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\Second year\\Web Programlama\\CourseApp\\wwwroot\\",
+      "BasePath": "_content/CourseApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lenovo\\Desktop\\Second year\\Web Programlama\\CourseApp\\wwwroot\\css\\style.css",
+      "SourceId": "CourseApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\Second year\\Web Programlama\\CourseApp\\wwwroot\\",
+      "BasePath": "_content/CourseApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
